@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 /nope.txt
-../halo.txt
+./halo.txt
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
